@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">
+<h2 align="center">
 Profile
 </h2>
 
