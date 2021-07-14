@@ -26,4 +26,4 @@ Feel free to contact me!
 
 ![Paweł's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawelblaszczyk5&theme=cobalt&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelblaszczyk5&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelblaszczyk5&layout=compact&theme=cobalt&langs_count=8)
