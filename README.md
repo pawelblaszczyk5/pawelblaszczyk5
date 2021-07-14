@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
 Profile
-</h2>
+</h1>
 
 ### Hi there 👋 I'm Paweł Błaszczyk
 
