@@ -4,7 +4,7 @@ Profile
 
 ### Hi there 👋 I'm Paweł Błaszczyk
 
-> Frontend Developer at SALESmanago
+> Front-End Developer at Traffit
 
 ![](https://komarev.com/ghpvc/?username=pawelblaszczyk5&color=blueviolet)
 
@@ -18,7 +18,7 @@ I'm a mid-level web developer fascinated by new technologies, which I like to us
 
 - [🌐 My blog](https://pawel-blaszczyk-blog.netlify.app/ " 🌐 My blog")
 - [💼 LinkedIn](https://www.linkedin.com/in/pawel-blaszczyk/ " 💼 LinkedIn")
-- [📧 Email](mailto:pawelblasczyk@wir.pl "📧 Email")
+- [📧 Email](mailto:pawelblaszczyk@wir.pl "📧 Email")
 
 Feel free to contact me!
 
