@@ -4,7 +4,7 @@ Profile
 
 ### Hi there 👋 I'm Paweł Błaszczyk
 
-> Front-End Developer at BinarApps
+> Front-End Developer at Traffit
 
 ![](https://komarev.com/ghpvc/?username=pawelblaszczyk5&color=blueviolet)
 
@@ -16,8 +16,8 @@ I'm a mid-level web developer fascinated by new technologies, which I like to us
 
 ### Find me online
 
-- [🌐 My blog](https://pawel-blaszczyk-blog.netlify.app/ " 🌐 My blog")
 - [💼 LinkedIn](https://www.linkedin.com/in/pawel-blaszczyk/ " 💼 LinkedIn")
+- [🌐 My blog](https://pawel-blaszczyk-blog.netlify.app/ " 🌐 My blog")
 - [📧 Email](mailto:pawelblaszczyk@wir.pl "📧 Email")
 
 Feel free to contact me!
