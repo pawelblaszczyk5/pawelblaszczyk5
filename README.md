@@ -6,13 +6,13 @@ Profile
 
 > Front-End Developer at Traffit
 
-![](https://komarev.com/ghpvc/?username=pawelblaszczyk5&color=blueviolet)
+![Paweł's GitHub stats](https://komarev.com/ghpvc/?username=pawelblaszczyk5&color=blueviolet)
 
 I'm a mid-level web developer fascinated by new technologies, which I like to use smartly. I always try to write testable and efficient code and trying to follow current trends and best practices. I'm always hardworking and doing my best to achieve the goals that I set for myself.
 
 ### Favorite technologies
 
-![Typescript](assets/typescript.png) ![Jest](assets/jest.png) ![Svelte](assets/svelte.png) ![Angular](assets/angular.png)
+![SolidJS](assets/solidjs.png) ![Testing Library](assets/testing-library.png) ![Typescript](assets/typescript.png) ![Remix](assets/remix.png)
 
 ### Find me online
 
