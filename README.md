@@ -8,7 +8,7 @@ Profile
 
 ![Paweł's GitHub stats](https://komarev.com/ghpvc/?username=pawelblaszczyk5&color=blueviolet)
 
-I'm a mid-level web developer fascinated by new technologies, which I like to use smartly. I always try to write testable and efficient code and trying to follow current trends and best practices. I'm always hardworking and doing my best to achieve the goals that I set for myself.
+I'm a web developer fascinated by how things work under the hood. I like to keep up to date with current trends. Trying new things is my daily occupation! I'm hardworking and doing everything to achieve my goals.
 
 ### Favorite technologies
 
