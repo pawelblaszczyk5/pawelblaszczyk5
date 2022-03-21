@@ -17,7 +17,6 @@ I'm a web developer fascinated by how things work under the hood. I like to keep
 ### Find me online
 
 - [💼 LinkedIn](https://www.linkedin.com/in/pawel-blaszczyk/ " 💼 LinkedIn")
-- [🌐 My blog](https://pawel-blaszczyk-blog.netlify.app/ " 🌐 My blog")
 - [📧 Email](mailto:pawelblaszczyk@wir.pl "📧 Email")
 
 Feel free to contact me!
