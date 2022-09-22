@@ -4,7 +4,7 @@ Profile
 
 ### Hi there 👋 I'm Paweł Błaszczyk
 
-> Front-End Developer at Traffit
+> Front-End Developer, TypeScript Engineer, Web Developer
 
 ![Paweł's GitHub stats](https://komarev.com/ghpvc/?username=pawelblaszczyk5&color=blueviolet)
 
