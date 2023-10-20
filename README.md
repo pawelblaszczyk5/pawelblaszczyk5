@@ -11,11 +11,11 @@ Profile
 ### About Me
 
 - 🔧 Web Engineer
-- 🧠 Over 3 years of experiences in various positions and tech stacks
+- 🧠 Almost 4 years of experiences in various positions and tech stacks
 - 🛣️ Leadership practice
 - 🤔 Always learning and experimenting
 - ⛰️ Enjoying challenges
-- ♻️ OSS contributor (beginner)
+- ♻️ OSS contributor
 
 ### Tech Stack
 
