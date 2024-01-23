@@ -4,8 +4,6 @@ Profile
 
 ### Hi there 👋 I'm Paweł Błaszczyk
 
-> Full-stack Developer
-
 ![Paweł's GitHub profile views](https://komarev.com/ghpvc/?username=pawelblaszczyk5&color=blueviolet)
 
 ### About Me
