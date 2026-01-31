@@ -9,7 +9,7 @@ Profile
 ### About Me
 
 - 🔧 Web Engineer
-- 🧠 Over 5 years of experiences in various positions and tech stacks
+- 🧠 Over 6 years of experiences in various positions and tech stacks
 - 🛣️ Leadership practice
 - 🤔 Always learning and experimenting
 - ⛰️ Enjoying challenges
