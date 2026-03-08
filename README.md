@@ -21,7 +21,6 @@ Profile
 
 ### GitHub Stats
 
-![GitHub Contributions Stats](https://github-readme-stats.vercel.app/api?username=pawelblaszczyk5&show_icons=true&locale=en&theme=tokyonight&count_private=true)
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=pawelblaszczyk5&theme=tokyonight)
 
 ### Contact Me
