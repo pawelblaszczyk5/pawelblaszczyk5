@@ -2,7 +2,7 @@
 Profile
 </h1>
 
-### Hi there 👋 I'm Paweł Błaszczyk
+### Hello 👋 I'm Paweł Błaszczyk
 
 ![Paweł's GitHub profile views](https://komarev.com/ghpvc/?username=pawelblaszczyk5&color=blueviolet)
 
